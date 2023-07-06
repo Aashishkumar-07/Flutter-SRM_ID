@@ -2,6 +2,6 @@
 A new Flutter project.
 
 ### Getting Started
-This app displays the quotes and their author and it gives an option to delete these quotes when you no longer need it
+A project using basic flutter widgets to create a simple ID
 
 To visit the app https://id-srm.netlify.app/
