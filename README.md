@@ -1,16 +1,7 @@
-# my_flutter_testing
-
+## Flutter-ID
 A new Flutter project.
 
-## Getting Started
+### Getting Started
+This app displays the quotes and their author and it gives an option to delete these quotes when you no longer need it
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To visit the app https://id-srm.netlify.app/
